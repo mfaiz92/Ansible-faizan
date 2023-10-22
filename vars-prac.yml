@@ -1,3 +1,4 @@
 ---
 - name: practicing variables
   hosts: 
+  tasks
