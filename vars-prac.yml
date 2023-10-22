@@ -1,5 +1,5 @@
 ---
 - name: practicing variables
-  hosts:
+  hosts: 192.192.192.192
   tasks:  
   
